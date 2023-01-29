@@ -1,0 +1,71 @@
+<<<<<3、上硬件测试>>>>>
+update.sh
+//最先进行，因为会对cpu频率等有个初始化（800000/ondemand），放在后面的话下面的echo就相当于没生效了
+
+echo 1200000 > /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq
+echo 1200000 > /sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq
+echo performance > /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+
+//查看确认是否成功更新
+cat /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq      -> 1200000（原800000）
+cat  /sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq      -> 1200000（原800000）
+cat  /sys/devices/system/cpu/cpufreq/policy0/scaling_governor     -> performance以最佳性能运行（原ondemand）
+
+mount(看挂载 on，用以确认是否成功挂载，下一步要去sd卡上拷.so)
+输出：/dev/mmcblk0 on /mnt/sdcard type vfat 表示 设备节点已经挂载上sd卡，以vfat的形式
+cd /mnt/sdcard
+
+1,kill主进程和守护进程
+      kill  -9  pid1   pid2
+      pid1和pid2可以通过ps命令查看    进程名为lds_products_ipc_indoor_deamon和lds_products_ipc_indoor
+//杀死后数据框才会慢下来，之前靠手速和鼠标按住，因此可在update后立即操作
+   
+2，cp修改后的库到某个可写的目录，比如data
+         cp   ***.so    /dat   （cp /mnt/sdcard/libVca.so /data/lib/）
+
+3,指定第二部的路径为动态库优先查找目录
+        export LD_LIBRARY_PATH=/data/lib:$LD_LIBRARY_PATH
+      
+4，手动拉起主进程
+       lds_products_ipc_indoor_deamon -f /data/config/arnoo/config.json &a/lib
+//此时不用再update和cpu设置频率了吧？只有掉电和重启需要
+
+
+<<<<<1、编译>>>>>
+(malei目录下).bashrc之最后一行（ls -a显示隐藏文件）
+export cross_compile=$cross_compile:/home/malei/tools/arm-buildroot-linux-uclibcgnueabihf-4.9.4-uclibc-1.0.31/bin
+可去该目录下查看交叉编译环境
+/home/malei/arm-buildroot-linux-uclibcgnueabihf-4.9.4-uclibc-1.0.31/bin 该目录与上一个目录的区别?已屏蔽
+
+/home/malei/algorithm_from_taiwan/shenzhen_bao/Vca_API_SO_v1.0.5   1.05代码
+cd Vca_API_SO_v1.0.5/
+make clean && make 生成新的libVca.so  （ls -l 可查看新增文件）
+
+/home/malei/algorithm_from_taiwan/embeddedCV/embeddedCV   1.06代码
+
+/home/malei/mnn/MNN/build   只编译一次的MNN环境 （build.sh）
+
+
+<<<<<2、拷贝（新的程序录入硬件）>>>>>
+设备：读卡器+sd卡
+1、将新编译好的libVca.so复制（覆盖旧的）进sd卡中；
+2、sd卡再插入设备中-->"上硬件测试"
+
+
+<<<<<0、程序修改>>>>>
+Source_insight中查看
+版本1.05：Vca，实际上硬件调试用
+版本1.06：embeddedCV，测试和源文件都在一起，所以方便工程查看代码
+
+<<<<<4、测试>>>>>
+SecureCRT抓log分析日志，看运行状况
+1、图像大小已检测：程序与实际的对应
+2、内存泄漏待检测
+      工具：静态检测PCLint、（D:/lint/lint-nt -u D:/lint/std.lnt D:/lint/env-si.lnt %f）
+                动态检测Valgrind（源码下载需交叉编译，有坑要填，再烧到板子上，部署需3-5天）、
+                             gcc -sanitizer 编译选项（应makefile中加入）
+
+<<<<<其他>>>>>
+断电：先拔电源，再拔USB
+
+

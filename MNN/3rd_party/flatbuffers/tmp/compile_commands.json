@@ -1,0 +1,262 @@
+[
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/src/code_generators.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/src/idl_parser.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/src/idl_gen_text.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/src/reflection.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/src/util.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/src/idl_gen_fbs.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_fbs.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_fbs.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/tests/test.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/tests/test.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tests/test.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/tests/test_assert.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/tests/test_assert.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tests/test_assert.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_DEBUG_VERIFICATION_FAILURE=1 -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -DFLATBUFFERS_TRACK_VERIFIER_BUFFER_SIZE -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flattests.dir/tests/test_builder.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/tests/test_builder.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tests/test_builder.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/code_generators.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_parser.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_text.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/reflection.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/util.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_cpp.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_cpp.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_cpp.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_dart.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_dart.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_dart.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_general.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_general.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_general.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_go.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_go.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_go.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_js_ts.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_js_ts.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_js_ts.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_php.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_php.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_php.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_python.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_python.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_python.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_lobster.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_lobster.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_lobster.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_lua.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_lua.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_lua.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_rust.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_rust.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_rust.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_fbs.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_fbs.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_fbs.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_grpc.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_grpc.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_grpc.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/idl_gen_json_schema.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_json_schema.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_json_schema.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/flatc.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/flatc.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/flatc.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/src/flatc_main.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/flatc_main.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/flatc_main.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/grpc/src/compiler/cpp_generator.cc.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc/src/compiler/cpp_generator.cc",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc/src/compiler/cpp_generator.cc"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/grpc/src/compiler/go_generator.cc.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc/src/compiler/go_generator.cc",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc/src/compiler/go_generator.cc"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatc.dir/grpc/src/compiler/java_generator.cc.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc/src/compiler/java_generator.cc",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc/src/compiler/java_generator.cc"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatbuffers.dir/src/code_generators.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatbuffers.dir/src/idl_parser.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatbuffers.dir/src/idl_gen_text.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatbuffers.dir/src/reflection.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -Wold-style-cast -o CMakeFiles/flatbuffers.dir/src/util.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsamplebinary.dir/samples/sample_binary.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/samples/sample_binary.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/samples/sample_binary.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flathash.dir/src/flathash.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/flathash.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/flathash.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsampletext.dir/src/code_generators.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsampletext.dir/src/idl_parser.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsampletext.dir/src/idl_gen_text.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsampletext.dir/src/reflection.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsampletext.dir/src/util.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsampletext.dir/samples/sample_text.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/samples/sample_text.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/samples/sample_text.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsamplebfbs.dir/src/code_generators.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/code_generators.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsamplebfbs.dir/src/idl_parser.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_parser.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsamplebfbs.dir/src/idl_gen_text.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_text.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsamplebfbs.dir/src/reflection.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/reflection.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsamplebfbs.dir/src/util.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/util.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsamplebfbs.dir/src/idl_gen_general.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_general.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/src/idl_gen_general.cpp"
+},
+{
+  "directory": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp",
+  "command": "/usr/bin/c++ -DFLATBUFFERS_LOCALE_INDEPENDENT=1 -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/include -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/grpc -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/tests -I/home/wanghailan/work/MNN/3rd_party/flatbuffers/tmp/samples  -std=c++0x -Wall -pedantic -Wextra -Wunused-result -Wunused-parameter -fsigned-char -o CMakeFiles/flatsamplebfbs.dir/samples/sample_bfbs.cpp.o -c /home/wanghailan/work/MNN/3rd_party/flatbuffers/samples/sample_bfbs.cpp",
+  "file": "/home/wanghailan/work/MNN/3rd_party/flatbuffers/samples/sample_bfbs.cpp"
+}
+]
